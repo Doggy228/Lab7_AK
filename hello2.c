@@ -20,6 +20,6 @@ static void __exit hello2_exit(void){}
 module_init(hello2_init);
 module_exit(hello2_exit);
 
-MODULE_AUTHOR("Hrona Yurii");
+MODULE_AUTHOR("Oleksii Chernoshtan");
 MODULE_DESCRIPTION("Hello2 advanced, world in Linux Kernel Training");
 MODULE_LICENSE("Dual BSD/GPL");
