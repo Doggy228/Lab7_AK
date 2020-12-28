@@ -2,7 +2,7 @@
 
 #include "hello1.h"
 
-MODULE_AUTHOR("Hrona Yurii");
+MODULE_AUTHOR("Oleksii Chernoshtan");
 MODULE_DESCRIPTION("Parameter-counter of printing out the message");
 MODULE_LICENSE("Dual BSD/GPL");
 
